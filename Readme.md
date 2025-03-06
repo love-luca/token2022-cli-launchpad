@@ -25,5 +25,5 @@ Token2022 CLI Launchpad is a command-line tool for deploying SPL Token2022 asset
 - Token Locking & Vesting – Control token releases over time
 
 ## Deveoper
-- [@rhettjel](https://t.me/rhettjel)
-- [@defai_maxi](https://x.com/defai_maxi)
+- Tel: [@rhettjel](https://t.me/rhettjel)
+- Twitter: [@defai_maxi](https://x.com/defai_maxi)
